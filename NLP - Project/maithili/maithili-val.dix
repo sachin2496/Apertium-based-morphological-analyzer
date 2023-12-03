@@ -1,0 +1,511 @@
+<dictionary>
+  <alphabet>ॊऀABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz</alphabet>
+  <sdefs>
+    <sdef n="n"       c="Noun"/>
+    <sdef n="sg"       c="Singular"/>
+    <sdef n="pl"       c="Plural"/>
+    <sdef n="m"       c="Masculine"/>   
+    <sdef n="f"       c="Feminine"/>   
+    <sdef n="o"       c="Oblique"/>
+    <sdef n="d"       c="Direct"/>
+    <sdef n="p3"       c="Third Person"/>
+    <sdef n="p2"       c="Second Person"/>
+    <sdef n="p1"       c="First Person"/>
+    <sdef n="eo"       c="Emphasis with only"/>
+    <sdef n="adj"		c="Adjective"/>
+  </sdefs>
+  <pardefs>
+	<pardef n = "balika">
+	  <e><p><l></l><r><s n="adj"/><s n="f"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l>ain</l><r><s n="adj"/><s n="f"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	</pardef>
+	<pardef n = "ladZki">
+	  <e><p><l></l><r><s n="n"/><s n="f"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l>o</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="f"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>an</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "bAlak">
+	  <e><p><l></l><r><s n="adj"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l>ein</l><r><s n="adj"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	</pardef>
+	<pardef n = "Gare">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>Msaba</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "ladZikahi">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "rAj">
+	  <e><p><l>e</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l>e</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l>e</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>ahisaBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "Karce">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "sonare">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "kuve">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "kavie">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "Axamie">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "sawrue">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "allue">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "suve">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "harahuze">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "kroXe/kroXahi/kroXahiz">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "sarisoMe">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "lakaToe">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "gosaiMe">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "Garave">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "ladZikabe">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "rajave">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "Karcave">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "kaviye">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "axamiye">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "sonarave">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "sawruve">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "allUbe">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "kuvazve">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "gehuzve">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "kroXave/kroXavahi/kroXavahiz">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "suwave">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "gosaiMyahi">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>Msaba</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "sarisoMbe">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "Garavo">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "ladZikavo">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "rajavo">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "Karcavo">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "kaviyo">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "axamiyo">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "sonaravo">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "sawruvo">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "allUbo">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "kuvazvo">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "gehuzvo">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "kroXavo/kroXavahu/kroXavAZWNJseho/kroXavahuz">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "suwazvo">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saBa</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "gosaiMyahoM">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saba</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "sarisoMbo">
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="p3"/><s n="o"/></r></p></e>
+	  <e><p><l>saba</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="p3"/><s n="o"/></r></p></e>
+	</pardef>
+	<pardef n = "kariya">
+	  <e><p><l>kko</l><r><s n="adj"/><s n="m"/><s n="sg"/><s n="p3"/><s n="d"/></r></p></e>
+	  <e><p><l>vA</l><r><s n="adj"/><s n="m"/><s n="pl"/><s n="p3"/><s n="d"/></r></p></e>
+	</pardef>	
+  </pardefs>
+  <section id="main" type="standard">
+    <e lm="balika">
+	  <i>balika</i>
+	  <par n="balika"/>
+	</e>
+    <e lm="ladZki">
+	  <i>ladZki</i>
+	  <par n="ladZki"/>
+	</e>	
+	<e lm="bAlak">
+	  <i>bAlak</i>
+	  <par n="bAlak"/>
+	</e>
+	<e lm="ladZikahi">
+	  <i>ladZikahi</i>
+	  <par n="ladZikahi"/>
+	</e>
+	<e lm="rAj">
+	  <i>rAj</i>
+	  <par n="rAj"/>
+	</e>
+	<e lm="Karce">
+	  <i>Karce</i>
+	  <par n="Karce"/>
+	</e>
+	<e lm="sonare">
+	  <i>sonare</i>
+	  <par n="sonare"/>
+	</e>
+	<e lm="kuve">
+	  <i>kuve</i>
+	  <par n="kuve"/>
+	</e>
+	<e lm="kavie">
+	  <i>kavie</i>
+	  <par n="kavie"/>
+	</e>
+	<e lm="Axamie">
+	  <i>Axamie</i>
+	  <par n="Axamie"/>
+	</e>
+	<e lm="sawrue">
+	  <i>sawrue</i>
+	  <par n="sawrue"/>
+	</e>
+	<e lm="allue">
+	  <i>allue</i>
+	  <par n="allue"/>
+	</e>
+	<e lm="suve">
+	  <i>suve</i>
+	  <par n="suve"/>
+	</e>
+	<e lm="harahuze">
+	  <i>harahuze</i>
+	  <par n="harahuze"/>
+	</e>
+	<e lm="kroXe/kroXahi/kroXahiz">
+	  <i>kroXe/kroXahi/kroXahiz</i>
+	  <par n="kroXe/kroXahi/kroXahiz"/>
+	</e>
+	<e lm="sarisoMe">
+	  <i>sarisoMe</i>
+	  <par n="sarisoMe"/>
+	</e>
+	<e lm="lakaToe">
+	  <i>lakaToe</i>
+	  <par n="lakaToe"/>
+	</e>
+	<e lm="gosaiMe">
+	  <i>gosaiMe</i>
+	  <par n="gosaiMe"/>
+	</e>
+	<e lm="Garave">
+	  <i>Garave</i>
+	  <par n="Garave"/>
+	</e>
+	<e lm="ladZikabe">
+	  <i>ladZikabe</i>
+	  <par n="ladZikabe"/>
+	</e>
+	<e lm="rajave">
+	  <i>rajave</i>
+	  <par n="rajave"/>
+	</e>
+	<e lm="Karcave">
+	  <i>Karcave</i>
+	  <par n="Karcave"/>
+	</e>
+	<e lm="kaviye">
+	  <i>kaviye</i>
+	  <par n="kaviye"/>
+	</e>
+	<e lm="axamiye">
+	  <i>axamiye</i>
+	  <par n="axamiye"/>
+	</e>
+	<e lm="sonarave">
+	  <i>sonarave</i>
+	  <par n="sonarave"/>
+	</e>
+	<e lm="sawruve">
+	  <i>sawruve</i>
+	  <par n="sawruve"/>
+	</e>
+	<e lm="allUbe">
+	  <i>allUbe</i>
+	  <par n="allUbe"/>
+	</e>
+	<e lm="kuvazve">
+	  <i>kuvazve</i>
+	  <par n="kuvazve"/>
+	</e>
+	<e lm="gehuzve">
+	  <i>gehuzve</i>
+	  <par n="gehuzve"/>
+	</e>
+	<e lm="kroXave/kroXavahi/kroXavahiz">
+	  <i>kroXave/kroXavahi/kroXavahiz</i>
+	  <par n="kroXave/kroXavahi/kroXavahiz"/>
+	</e>
+	<e lm="suwave">
+	  <i>suwave</i>
+	  <par n="suwave"/>
+	</e>
+	<e lm="gosaiMyahi">
+	  <i>gosaiMyahi</i>
+	  <par n="gosaiMyahi"/>
+	</e>
+	<e lm="sarisoMbe">
+	  <i>sarisoMbe</i>
+	  <par n="sarisoMbe"/>
+	</e>
+	<e lm="Garavo">
+	  <i>Garavo</i>
+	  <par n="Garavo"/>
+	</e>
+	<e lm="ladZikavo">
+	  <i>ladZikavo</i>
+	  <par n="ladZikavo"/>
+	</e>
+	<e lm="rajavo">
+	  <i>rajavo</i>
+	  <par n="rajavo"/>
+	</e>
+	<e lm="Karcavo">
+	  <i>Karcavo</i>
+	  <par n="Karcavo"/>
+	</e>
+	<e lm="kaviyo">
+	  <i>kaviyo</i>
+	  <par n="kaviyo"/>
+	</e>
+	<e lm="axamiyo">
+	  <i>axamiyo</i>
+	  <par n="axamiyo"/>
+	</e>
+	<e lm="sonaravo">
+	  <i>sonaravo</i>
+	  <par n="sonaravo"/>
+	</e>
+	<e lm="sawruvo">
+	  <i>sawruvo</i>
+	  <par n="sawruvo"/>
+	</e>
+	<e lm="allUbo">
+	  <i>allUbo</i>
+	  <par n="allUbo"/>
+	</e>
+	<e lm="kuvazvo">
+	  <i>kuvazvo</i>
+	  <par n="kuvazvo"/>
+	</e>
+	<e lm="gehuzvo">
+	  <i>gehuzvo</i>
+	  <par n="gehuzvo"/>
+	</e>
+	<e lm="kroXavo/kroXavahu/kroXavAZWNJseho/kroXavahuz">
+	  <i>kroXavo/kroXavahu/kroXavAZWNJseho/kroXavahuz</i>
+	  <par n="kroXavo/kroXavahu/kroXavAZWNJseho/kroXavahuz"/>
+	</e>
+	<e lm="suwazvo">
+	  <i>suwazvo</i>
+	  <par n="suwazvo"/>
+	</e>
+	<e lm="gosaiMyahoM">
+	  <i>gosaiMyahoM</i>
+	  <par n="gosaiMyahoM"/>
+	</e>
+	<e lm="sarisoMbo">
+	  <i>sarisoMbo</i>
+	  <par n="sarisoMbo"/>
+	</e>
+	<e lm="kariya">
+	  <i>kariya</i>
+	  <par n="kariya"/>
+	</e>    
+  </section>  
+</dictionary>
